@@ -20,3 +20,7 @@
 5) *MarkDown*
 #### ***samplecode*** 
 ``` 
+### **Education**
+*higher education with a degree in process engineer, incomplete higher education (in progress) software engineer*
+### **English level**
+**C1**
